@@ -70,4 +70,4 @@ php artisan serve
 
 ## 
 ## student url
- INFO  Server running on [http://127.0.0.1:8000].
+ INFO  Server running on [http://127.0.0.1:8000/students].
